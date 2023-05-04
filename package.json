@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "onnxjs": "^0.1.8"
+  },
+  "name": "terramitra",
+  "version": "1.0.0",
+  "description": "Terra Mitra",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Terra Mitra",
+  "license": "ISC"
+}
